@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm <span style="color:#f778ba; font-weight:bold">@Subaharini</span> 👋</h1>
-<h3 align="center">🚀 Frontend Enthusiast | Full Stack Developer | ML Learner | UI/UX Designer | RPA Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | ML Learner | UI/UX Designer | RPA Explorer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🧠 Exploring AI & ML in Real-World Use Cases (Food Waste, Demand Prediction)
 - 🧑‍💻 Building Scalable Web Applications (Python, React, Node.js)
 - 🤖 Automating Tasks with RPA (UiPath)
-- 📱 Mobile Development with Flutter for smart, usable apps
+
 
 ### 🌱 Currently Learning:
 - 📊 Machine Learning Models & Deployment
@@ -20,14 +20,10 @@
 - 🕸️ Building Full-stack Projects with Authentication & ML Integration
 
 ### 💼 Experience:
-- 👩‍💻 **Hack Hustle 2024**  
-  Built AI-based public transport scheduler with real-time optimization
+- 👩‍💻 **SortyX – Full Stack Developer**  
+  - 🗑️ Developed **SmartBin**, a smart waste management app for real-time bin monitoring using IoT + Linux.  
+  - 🛍️ Built **S-IoT E-commerce**, a complete online store with product listings, cart, user auth, and payment.
 
-- 🧁 **Customize Your Cravings**  
-  Cake customization website with user design personalization + secure checkout
-
-- 💊 **AdShield for TN Police Hackathon**  
-  Scam ad detection using ML/NLP & Computer Vision
 
 ### 🤝 Looking to Collaborate On:
 - 🚀 Full-stack Web Development
@@ -36,8 +32,8 @@
 - 🌱 Sustainability-focused Tech Solutions
 
 ### 📫 Let's Connect:
-- 📧 [subaharini@email.com](mailto:subaharini@email.com) <!-- Replace with your email -->
-- 🔗 [LinkedIn](https://linkedin.com/in/subaharini) <!-- Replace with your LinkedIn -->
+- 📧 [subaharini@email.com](mailto:subaharini2106@email.com) <!-- Replace with your email -->
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/suba-harini-1b07a1296/]) <!-- Replace with your LinkedIn -->
 - 🌍 Based in Tamil Nadu, India
 
 ### 😄 Pronouns: She/Her  
@@ -50,17 +46,15 @@ I blend design with intelligence — doodler by passion, developer by mission!
 
 **🌐 Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
 **🧰 Backend:** Python, Flask, Node.js  
-**📱 App Dev:** Flutter, Dart  
 **🧠 ML/AI:** scikit-learn, OpenCV, TensorFlow, NLTK, spaCy  
-**🛢️ Databases:** MySQL, Firebase  
-**🧾 Tools:** UiPath, GitHub, Canva, Figma, Power BI  
-**🗣️ Soft Skills:** Team Leader, Public Speaking, IEEE Member
+**🛢️ Databases:** MySQL, MongoDb
+**🧾 Tools:** UiPath, GitHub, Canva, Figma, N8N 
+**🗣️ Soft Skills:** Team Leader, Public Speaking, IEEE Member, Prompt Engineering
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Hack Hustle 2024** – AI Transport Scheduler (Top Project)
-- 🛡️ **AdShield Hackathon** – Finalist (Cybersecurity Challenge)
+- 🥇 **Hack Athena** – 48 hours Hcakathon - ML - Finalist
 - 🧁 **Project Presentation – Pinnacle '24** – Winner
 - 💡 **IEEE Events & Workshops** – Active Volunteer & Participant
 
@@ -78,11 +72,11 @@ I blend design with intelligence — doodler by passion, developer by mission!
 
 ## 🎓 Education
 - 🎓 **B.E. CSE** – St. Joseph’s Institute of Technology (2022–26) — CGPA: 8.46  
-- 🏫 **HSC & SSLC** – Alpha Wisdom Vidhyashram
 
 ---
 
 ## 📜 Certifications
+- ✅ Data Structure using in Java -NPTEL
 - ✅ UiPath RPA Developer – Foundation & Associate  
 - ✅ Machine Learning (NPTEL – Elite)  
 - ✅ Ethical Hacking (LinkedIn Learning)  
