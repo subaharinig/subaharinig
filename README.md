@@ -41,7 +41,7 @@
 **🌐 Full-stack:** HTML, CSS, JavaScript, React, Bootstrap ,Python, Flask, Node.js  
 **🧠 ML/AI:** scikit-learn, OpenCV, TensorFlow
 **🛢️ Databases:** MySQL, MongoDB  
-**📊 Languages: C, Java, Python 
+**📊 Languages:** C, Java, Python 
 **🧾 Tools:** UiPath, GitHub, Canva, Figma, N8N  
 **🗣️ Soft Skills:** Team Leader, Public Speaking, IEEE Member, Prompt Engineering
 
