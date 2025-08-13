@@ -6,24 +6,22 @@
 ## 💫 About Me
 
 ### 👀 Interests:
-- 🧁 Creating Personalized E-Commerce Platforms (`Customize Your Cravings`)
-- 🧠 Exploring AI & ML in Real-World Use Cases (Food Waste, Demand Prediction)
+- 🧁 Creating Personalized E-Commerce Platforms
+- 🧠 Exploring AI & ML in Real-World Use Cases
 - 🧑‍💻 Building Scalable Web Applications (Python, React, Node.js)
 - 🤖 Automating Tasks with RPA (UiPath)
-
 
 ### 🌱 Currently Learning:
 - 📊 Machine Learning Models & Deployment
 - 📦 System Design & Secure Data Architecture
 - 🧠 Real-time Demand Forecasting & AI Scheduling
-- 🧪 AI-based Food Expiry Detection & Recipe Recommendation
+- 🧪 AI-based Beauty, Wellness & Health Analysis
 - 🕸️ Building Full-stack Projects with Authentication & ML Integration
 
 ### 💼 Experience:
 - 👩‍💻 **SortyX – Full Stack Developer**  
   - 🗑️ Developed **SmartBin**, a smart waste management app for real-time bin monitoring using IoT + Linux.  
   - 🛍️ Built **S-IoT E-commerce**, a complete online store with product listings, cart, user auth, and payment.
-
 
 ### 🤝 Looking to Collaborate On:
 - 🚀 Full-stack Web Development
@@ -32,13 +30,9 @@
 - 🌱 Sustainability-focused Tech Solutions
 
 ### 📫 Let's Connect:
-- 📧 [subaharini@email.com](mailto:subaharini2106@email.com) <!-- Replace with your email -->
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/suba-harini-1b07a1296/]) <!-- Replace with your LinkedIn -->
+- 📧 [subaharini2106@gmail.com](mailto:subaharini2106@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suba-harini)  
 - 🌍 Based in Tamil Nadu, India
-
-### 😄 Pronouns: She/Her  
-### ⚡ Fun Fact:  
-I blend design with intelligence — doodler by passion, developer by mission!
 
 ---
 
@@ -47,57 +41,54 @@ I blend design with intelligence — doodler by passion, developer by mission!
 **🌐 Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
 **🧰 Backend:** Python, Flask, Node.js  
 **🧠 ML/AI:** scikit-learn, OpenCV, TensorFlow, NLTK, spaCy  
-**🛢️ Databases:** MySQL, MongoDb
-**🧾 Tools:** UiPath, GitHub, Canva, Figma, N8N 
+**🛢️ Databases:** MySQL, MongoDB  
+**🧾 Tools:** UiPath, GitHub, Canva, Figma, N8N  
 **🗣️ Soft Skills:** Team Leader, Public Speaking, IEEE Member, Prompt Engineering
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Hack Athena** – 48 hours Hcakathon - ML - Finalist
-- 🧁 **Project Presentation – Pinnacle '24** – Winner
-- 💡 **IEEE Events & Workshops** – Active Volunteer & Participant
+- 🥈 **HackAthena’25** – Runner-up (*Glow Guardians*)  
+- 🏅 Finalist – HackHustle (*FluxRoute*), Techchallengathon (*Whisk and Wish*), TechDivathon  
+- 💡 Active Volunteer & Participant in IEEE Events & Workshops
 
 ---
 
 ## 🌟 Featured Projects
-- 🧠 **AI-based Food Spoilage Detection** – Alerts, recipes & analytics
-- 🛍️ **Customize Your Cravings** – User-driven cake customization e-commerce
-- 🛡️ **AdShield** – AI/NLP detection of scam ads
-- 🌿 **Healthy Food Recommender** – Nutrition advice via AI
-- 🚌 **Dynamic Public Transport Planner** – Demand-based AI routing
-- 🤖 **Place Recommendation Chatbot** – Smart UI containers + trip plans
+- 💖 **Glow Guardians – AI-Powered Health & Beauty Companion** – Facial analysis with personalized beauty tips, product suggestions, and health insights *(React, Python, Node.js, MongoDB)*  
+- 🧁 **Whisk and Wish – Gamified Cake & Bakery Ordering Platform** – Custom cake ordering with secure payments & real-time order tracking *(Flask, Python, JavaScript, MySQL)*  
+- 🚌 **FluxRoute – AI-Driven Dynamic Public Transportation Scheduler** – Commuter demand prediction & adaptive routing *(Python, TensorFlow, Flask)*  
+- 🗑️ **SmartBin App – IoT + ML Waste Management** – Waste classification & bin monitoring *(Python, scikit-learn, IoT)*  
+- 🛍️ **S-IoT E-commerce Platform** – Scalable IoT marketplace with user auth, cart & payments *(React, Flask, MySQL)*  
 
 ---
 
 ## 🎓 Education
-- 🎓 **B.E. CSE** – St. Joseph’s Institute of Technology (2022–26) — CGPA: 8.46  
+- 🎓 **B.E. CSE** – St. Joseph’s Institute of Technology (2022–26) — CGPA: 8.47  
 
 ---
 
 ## 📜 Certifications
-- ✅ Data Structure using in Java -NPTEL
-- ✅ UiPath RPA Developer – Foundation & Associate  
-- ✅ Machine Learning (NPTEL – Elite)  
-- ✅ Ethical Hacking (LinkedIn Learning)  
-- ✅ Python for Data Science (Infosys Springboard)
+- ✅ Data Structures & Algorithms in Java – NPTEL  
+- ✅ UiPath Automation Explorer Training  
+- ✅ AI Fundamentals – IBM  
+- ✅ Introduction to MongoDB – MongoDB  
+- ✅ Customer Engagement – IBM  
 
 ---
 
 ## 🌐 Social Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/subaharini)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subaharini@email.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/subaharini.dev) <!-- Replace if needed -->
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subaharini2106@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/subaharini.dev)  
 
 ---
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
 ![UiPath](https://img.shields.io/badge/uipath-%23FF6F00.svg?style=for-the-badge&logo=uipath)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -119,7 +110,3 @@ I blend design with intelligence — doodler by passion, developer by mission!
 
 ## 👀 Visitor Counter
 [![](https://visitcount.itsvg.in/api?id=subaharini&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Built with ❤️ by Subaharini -->
