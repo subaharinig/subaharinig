@@ -163,3 +163,5 @@
 💬 *“Don’t just learn technology — build solutions that create impact.”*
 
 ---
+
+## 👀 Visitor Counter [![](https://visitcount.itsvg.in/api?id=subaharini&icon=0&color=0)](https://visitcount.itsvg.in)
