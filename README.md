@@ -151,10 +151,9 @@
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=subaharini&theme=gruvbox&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=subaharini&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=subaharini&theme=gruvbox&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=subaharini&theme=gruvbox&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subaharini&theme=gruvbox&hide_border=false&layout=compact)
-
 ---
 
 
