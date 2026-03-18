@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm <span style="color:#f778ba;"><b>Subaharini G</b></span> 👋</h1>
-<h3 align="center">🚀 RPA Developer | Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | RPA Developer</h3>
 
 ---
 
