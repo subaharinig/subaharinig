@@ -1,122 +1,154 @@
-<h1 align="center">✨ Hey there, I'm <span style="color:#f778ba; font-weight:bold">@Subaharini</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | ML Learner | UI/UX Designer | RPA Explorer</h3>
+<h1 align="center">✨ Hey there, I'm <span style="color:#f778ba;"><b>Subaharini G</b></span> 👋</h1>
+<h3 align="center">🚀 RPA Developer | Full Stack Developer | AI/ML Enthusiast</h3>
 
 ---
 
 ## 💫 About Me
-
-### 👀 Interests:
-- 🧁 Creating Personalized E-Commerce Platforms
-- 🧠 Exploring AI & ML in Real-World Use Cases
-- 🧑‍💻 Building Scalable Web Applications (Python, React, Node.js)
-- 🤖 Automating Tasks with RPA (UiPath,N8N,Python-Selenium)
-
-### 🌱 Currently Learning:
-- 📊 Machine Learning Models & Deployment
-- 🏢 Building & Managing My Own Tech Firm
-- 🧠 Real-time Demand Forecasting & AI Scheduling
-- 🧪 AI-based Beauty, Wellness & Health Analysis
-- 🕸️ Building Full-stack Projects with Authentication & ML Integration
-
-### 💼 Experience:
-- 👩‍💻 **SortyX – Full Stack Developer**  
-  - 🗑️ Developed **SmartBin**, a smart waste management app for real-time bin classification ML model implements with IoT + Linux.  
-  - 🛍️ Built **S-IoT E-commerce**, a complete online store with product listings, cart, user auth, and payment.
-
-### 🤝 Looking to Collaborate On:
-- 🚀 Full-stack Web Development
-- 🔬 AI/ML Projects with Social Impact
-- 🤖 RPA Automation & Workflow Tools
-- 🌱 Sustainability-focused Tech Solutions
-
-### 📫 Let's Connect:
-- 📧 [subaharini2106@gmail.com](mailto:subaharini2106@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/subaharini21/)  
-- 🌍 Based in Tamil Nadu, India
+🎓 Computer Science Engineering student passionate about building **intelligent, real-world solutions** using Automation, AI/ML, and Full Stack Development.  
+🤖 I enjoy transforming manual workflows into **smart automated systems** that improve efficiency and scalability.  
+🚀 Currently exploring **Agentic Automation, AI-driven systems, and industry-level automation projects**.
 
 ---
 
-## 🧠 Skills Snapshot
-
-**🌐 Full-stack:** HTML, CSS, JavaScript, React, Bootstrap, Python, Flask, Node.js  
-**🧠 ML/AI:** scikit-learn, OpenCV, TensorFlow  
-**🛢️ Databases:** MySQL, MongoDB  
-**📊 Languages:** C, Java, Python  
-**🧾 Tools:** UiPath, GitHub, Canva, Figma, N8N  
-**🗣️ Soft Skills:** Team Leadership, Public Speaking, IEEE Member, Prompt Engineering
-
-
----
-
-## 🏆 Achievements
-- 🥈 **HackAthena’25** – Runner-up (*Glow Guardians*)  
-- 🏅 Finalist – HackHustle (*FluxRoute*), Techchallengathon (*Whisk and Wish*), TechDivathon  
-- 💡 Active Volunteer & Participant in IEEE Events & Workshops
-
----
-
-## 🌟 Featured Projects
-- 💖 **Glow Guardians – AI-Powered Health & Beauty Companion** – Facial analysis with personalized beauty tips, product suggestions, and health insights *(React, Python, Node.js, MongoDB)*  
-- 🧁 **Whisk and Wish – Gamified Cake & Bakery Ordering Platform** – Custom cake ordering with secure payments & real-time order tracking *(Flask, Python, JavaScript, MySQL)*  
-- 🚌 **FluxRoute – AI-Driven Dynamic Public Transportation Scheduler** – Commuter demand prediction & adaptive routing *(Python, TensorFlow, Flask)*  
-- 🗑️ **SmartBin App – IoT + ML Waste Management** – Waste classification & bin monitoring *(Python, scikit-learn)*  
-- 🛍️ **S-IoT E-commerce Platform** – Scalable IoT marketplace with user auth, cart & payments *(React, Flask, MySQL)*  
+## 📍 Contact
+📞 8122602106  
+📧 subaharini2106@gmail.com  
+🌐 subaharinig.com  
+📍 Kelambakkam, Chennai, Tamil Nadu  
+🔗 [LinkedIn](https://www.linkedin.com/in/subaharini21/) | [GitHub](https://github.com/subaharini)
 
 ---
 
 ## 🎓 Education
-- 🎓 **B.E. CSE** – St. Joseph’s Institute of Technology (2022–26) — CGPA: 8.47  
+🎓 **B.E. Computer Science Engineering**  
+🏫 St. Joseph’s Institute of Technology (2023–2027)  
+📊 CGPA: **8.53**
+
+---
+
+## 🧠 Skills Snapshot
+**💻 Programming:** Java  
+**🌐 Web & Backend:** HTML, CSS, JavaScript, Flask, React.js  
+**🧠 AI/ML:** OpenCV, YOLO, Machine Learning Basics  
+**🛢️ Databases:** MySQL, MongoDB  
+**🛠 Tools:** UiPath, Git, VS Code, Figma  
+**🗣 Soft Skills:** Team Leadership, Communication, Problem Solving  
+
+---
+
+## 💼 Experience
+
+### 🚀 SortyX Ventures Private Limited  
+**Machine Learning & Full Stack Intern | June 2025 – July 2025 | Chennai**
+- 🗑 Built a **YOLO-based real-time waste classification system** for IoT SmartBin  
+- ⚙️ Handled **data preprocessing, model training & optimization**  
+- 🛍 Developed modules of an **IoT-based E-commerce platform** using Flask  
+- 🔐 Implemented **authentication & product management features**
+
+---
+
+### 💻 CodeHunters  
+**Product Engineering Intern | Dec 2025 – Present | Remote**
+- ⚙️ Contributing to a **Laravel-based Learning Management System (LMS)**  
+- 🤝 Working in **Agile teams**, delivering features in sprint cycles  
+- 🌐 Developing **backend logic + frontend components**
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 HR Onboarding Automation (UiPath)
+- Automated **offer letter generation & email delivery**
+- Integrated **Excel, Word, PDF & SMTP automation**
+- Reduced manual effort with **end-to-end workflow automation**
+
+---
+
+### 💖 Glow Guardians – AI Health & Beauty Companion
+- Built **AI-powered facial analysis system** using OpenCV  
+- Provided **personalized beauty & health recommendations**  
+- Focused on **real-time user insights**
+
+---
+
+### 🎂 Whisk & Wish – Gamified Cake Platform
+- Developed **custom cake ordering platform** (React + Node.js)  
+- Enabled **real-time customization & order tracking**  
+- Designed **interactive and responsive UI**
+
+---
+
+## 🏆 Achievements
+- 🥇 **Winner — Blaze-A-Trail 2.0 Hackathon (Top 16 Teams)**  
+- 🥈 **Runner-Up — HackAthena’25 (Glow Guardians Project)**  
+- 🏅 **Finalist — HackHustle, TechChallenge-athon, TechDivathon**  
 
 ---
 
 ## 📜 Certifications
-- ✅ Data Structures & Algorithms in Java – NPTEL  
-- ✅ UiPath Automation Explorer Training  
-- ✅ AI Fundamentals – IBM  
-- ✅ Introduction to MongoDB – MongoDB  
-- ✅ Customer Engagement – IBM  
+- ✅ Data Structures & Algorithms using Java — NPTEL  
+- ✅ Artificial Intelligence Fundamentals — IBM  
 
 ---
+
+## 🌱 What I’m Focused On
+- 🤖 Advanced RPA (UiPath, Agentic Automation)  
+- 🧠 AI/ML Real-world Applications  
+- 🚀 Building Scalable Full Stack Systems  
+- 🌍 Automation for Real-world Impact  
+
+---
+
+## 💡 Strength & Mindset
+✨ Strong in building **practical automation solutions**  
+🚀 Love to **lead teams, organize events, and share knowledge**  
+📈 Always learning, building, and improving  
+
+---
+
 
 ## 🌐 Social Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subaharini21/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subaharini2106@gmail.com)  
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/subaharini)  
 
 ---
 
-
-
 ## 🛠 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+
+### 👨‍💻 Programming & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-%23E8702A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🤖 RPA & Automation
 ![UiPath](https://img.shields.io/badge/uipath-%23FF6F00.svg?style=for-the-badge&logo=uipath&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%230076A8.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-%23E8702A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🧠 AI / ML
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛢 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠 Tools & Design
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
+---
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=subaharini&theme=gruvbox&hide_border=false)
@@ -125,10 +157,9 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🔥 Quote I Believe In
+💬 *“Don’t just learn technology — build solutions that create impact.”*
 
 ---
-
-## 👀 Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=subaharini&icon=0&color=0)](https://visitcount.itsvg.in)
